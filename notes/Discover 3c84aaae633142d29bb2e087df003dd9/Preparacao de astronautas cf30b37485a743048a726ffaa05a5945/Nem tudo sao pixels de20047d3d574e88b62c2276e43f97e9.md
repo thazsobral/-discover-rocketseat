@@ -1,4 +1,4 @@
-# Nem tudo são pixels
+# Nem tudo sao pixels
 
 > *Site: [https://app.rocketseat.com.br/node/nem-tudo-sao-pixels](https://app.rocketseat.com.br/node/nem-tudo-sao-pixels)*
 > 

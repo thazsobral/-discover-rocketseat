@@ -1,4 +1,4 @@
-# App bonito, até nos textos
+# App bonito ate nos textos
 
 > *Site: [https://app.rocketseat.com.br/node/app-bonito-ate-nos-textos](https://app.rocketseat.com.br/node/app-bonito-ate-nos-textos)*
 > 
@@ -41,7 +41,7 @@ Não adianta a aplicação estar linda, mas usando Comic Sans como fonte e, por 
     
     Dentro das disciplinas básicas de tipográfia temos resumidademente este três tipos de fontes.
     
-    ![App%20bonito,%20ate%CC%81%20nos%20textos%209e2da1efe4be4bb1beb599d13a6fc4c4/Untitled.png](App%20bonito,%20ate%CC%81%20nos%20textos%209e2da1efe4be4bb1beb599d13a6fc4c4/Untitled.png)
+    ![App%20bonito%20ate%20nos%20textos%209e2da1efe4be4bb1beb599d13a6fc4c4/Untitled.png](App%20bonito%20ate%20nos%20textos%209e2da1efe4be4bb1beb599d13a6fc4c4/Untitled.png)
     
     - **San Serif** (Questa Sans), não possui estilização na tipografia;
     - **Serif** (Questa), possui estilização nas bordas da tipografia, e;
@@ -174,7 +174,7 @@ Não adianta a aplicação estar linda, mas usando Comic Sans como fonte e, por 
     
     E terá um resultado como este.
     
-    ![App%20bonito,%20ate%CC%81%20nos%20textos%209e2da1efe4be4bb1beb599d13a6fc4c4/Untitled%201.png](App%20bonito,%20ate%CC%81%20nos%20textos%209e2da1efe4be4bb1beb599d13a6fc4c4/Untitled%201.png)
+    ![App%20bonito%20ate%20nos%20textos%209e2da1efe4be4bb1beb599d13a6fc4c4/Untitled%201.png](App%20bonito%20ate%20nos%20textos%209e2da1efe4be4bb1beb599d13a6fc4c4/Untitled%201.png)
     
     <aside>
     ⚠️ Para mais informações sobre font-variant acesse a [documentação do MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/font-variant).
@@ -285,7 +285,7 @@ Não adianta a aplicação estar linda, mas usando Comic Sans como fonte e, por 
     
     Dessa forma, pode-se obter um resultado semelhante a este.
     
-    ![App%20bonito,%20ate%CC%81%20nos%20textos%209e2da1efe4be4bb1beb599d13a6fc4c4/Untitled%202.png](App%20bonito,%20ate%CC%81%20nos%20textos%209e2da1efe4be4bb1beb599d13a6fc4c4/Untitled%202.png)
+    ![App%20bonito%20ate%20nos%20textos%209e2da1efe4be4bb1beb599d13a6fc4c4/Untitled%202.png](App%20bonito%20ate%20nos%20textos%209e2da1efe4be4bb1beb599d13a6fc4c4/Untitled%202.png)
     
     <aside>
     ⚠️ Um ponto importante para se atentar ao definir um shorthand para a font é que,  os valores de **font-size** e **line-height** são separados por uma `/`.

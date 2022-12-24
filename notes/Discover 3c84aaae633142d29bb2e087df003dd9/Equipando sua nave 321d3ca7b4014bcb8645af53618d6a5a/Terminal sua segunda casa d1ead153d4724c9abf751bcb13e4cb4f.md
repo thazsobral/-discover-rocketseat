@@ -1,4 +1,4 @@
-# Terminal, sua segunda casa
+# Terminal sua segunda casa
 
 > *Site: [https://app.rocketseat.com.br/node/terminal](https://app.rocketseat.com.br/node/terminal)*
 > 

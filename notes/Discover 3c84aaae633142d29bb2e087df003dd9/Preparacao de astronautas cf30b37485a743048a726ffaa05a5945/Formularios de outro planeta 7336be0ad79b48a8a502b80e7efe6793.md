@@ -1,4 +1,4 @@
-# Formulários de outro planeta
+# Formularios de outro planeta
 
 > *Site: [https://app.rocketseat.com.br/node/formularios-de-outro-planeta](https://app.rocketseat.com.br/node/formularios-de-outro-planeta)*
 > 

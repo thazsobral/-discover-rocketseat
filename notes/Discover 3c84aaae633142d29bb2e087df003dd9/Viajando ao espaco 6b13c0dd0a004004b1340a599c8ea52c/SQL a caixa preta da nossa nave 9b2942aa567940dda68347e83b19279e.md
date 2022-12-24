@@ -1,4 +1,4 @@
-# SQL, a caixa preta da nossa nave
+# SQL a caixa preta da nossa nave
 
 > *Site: [https://app.rocketseat.com.br/node/sql](https://app.rocketseat.com.br/node/sql)*
 > 
@@ -30,7 +30,7 @@ Para guardar os dados da nossa aplicação usamos banco de dados, e aqui vamos c
     
     As informações são organizadas no banco de dados em tabelas. Cada tabela contém linhas e colunas, e são estas linhas e colunas que armazenam as informações necessárias para armazenar nossos dados.
     
-    ![SQL,%20a%20caixa%20preta%20da%20nossa%20nave%209b2942aa567940dda68347e83b19279e/untitled_(2).png](SQL,%20a%20caixa%20preta%20da%20nossa%20nave%209b2942aa567940dda68347e83b19279e/untitled_(2).png)
+    ![SQL%20a%20caixa%20preta%20da%20nossa%20nave%209b2942aa567940dda68347e83b19279e/untitled_(2).png](SQL%20a%20caixa%20preta%20da%20nossa%20nave%209b2942aa567940dda68347e83b19279e/untitled_(2).png)
     
     <aside>
     💡 É importante ressaltar que dentro de uma banco de dados é possível ter mais de uma tabela.
@@ -46,7 +46,7 @@ Para guardar os dados da nossa aplicação usamos banco de dados, e aqui vamos c
     
     De forma simples, o campo é o título de cada colunas, ou melhor, é o nome da informação aramazenada na coluna.
     
-    ![SQL,%20a%20caixa%20preta%20da%20nossa%20nave%209b2942aa567940dda68347e83b19279e/untitled_(1).png](SQL,%20a%20caixa%20preta%20da%20nossa%20nave%209b2942aa567940dda68347e83b19279e/untitled_(1).png)
+    ![SQL%20a%20caixa%20preta%20da%20nossa%20nave%209b2942aa567940dda68347e83b19279e/untitled_(1).png](SQL%20a%20caixa%20preta%20da%20nossa%20nave%209b2942aa567940dda68347e83b19279e/untitled_(1).png)
     
     <aside>
     ⚠️ Em alguns casos, o campo pode ser identificado como atributo.
@@ -57,13 +57,13 @@ Para guardar os dados da nossa aplicação usamos banco de dados, e aqui vamos c
     
     Informação é cada dado armazenado no encontro de linha e coluna na tabela, ou seja, o registro de um campo.
     
-    ![SQL,%20a%20caixa%20preta%20da%20nossa%20nave%209b2942aa567940dda68347e83b19279e/untitled.png](SQL,%20a%20caixa%20preta%20da%20nossa%20nave%209b2942aa567940dda68347e83b19279e/untitled.png)
+    ![SQL%20a%20caixa%20preta%20da%20nossa%20nave%209b2942aa567940dda68347e83b19279e/untitled.png](SQL%20a%20caixa%20preta%20da%20nossa%20nave%209b2942aa567940dda68347e83b19279e/untitled.png)
     
 - **O que são relações entre tabelas?**
     
     No banco de dados pode-se relacionar as informações de uma tabela com outra tabela. Dessa forma, é possível utilizar o campo de uma tabela para encontrar mais informações referentes ao dado da primeira tabela. Assim, não é necessário duplicar informações e permite a escalabilidade do armazenamento das informações.
     
-    ![SQL,%20a%20caixa%20preta%20da%20nossa%20nave%209b2942aa567940dda68347e83b19279e/untitled_(1)%201.png](SQL,%20a%20caixa%20preta%20da%20nossa%20nave%209b2942aa567940dda68347e83b19279e/untitled_(1)%201.png)
+    ![SQL%20a%20caixa%20preta%20da%20nossa%20nave%209b2942aa567940dda68347e83b19279e/untitled_(1)%201.png](SQL%20a%20caixa%20preta%20da%20nossa%20nave%209b2942aa567940dda68347e83b19279e/untitled_(1)%201.png)
     
 
 # Tipos de campos
@@ -72,7 +72,7 @@ Para guardar os dados da nossa aplicação usamos banco de dados, e aqui vamos c
     
     Todo campo dentro de uma tabela recebe uma configuração, inclusive o tipo de informação que aquele campo pode receber.
     
-    ![SQL,%20a%20caixa%20preta%20da%20nossa%20nave%209b2942aa567940dda68347e83b19279e/db-example_(2).png](SQL,%20a%20caixa%20preta%20da%20nossa%20nave%209b2942aa567940dda68347e83b19279e/db-example_(2).png)
+    ![SQL%20a%20caixa%20preta%20da%20nossa%20nave%209b2942aa567940dda68347e83b19279e/db-example_(2).png](SQL%20a%20caixa%20preta%20da%20nossa%20nave%209b2942aa567940dda68347e83b19279e/db-example_(2).png)
     
     <aside>
     ⚠️ É importante definir com cuidado o tipo de informação que cada campo vai receber, pois essa escolha pode impactar diretamente no futuro do seu projeto.
@@ -412,7 +412,7 @@ Para guardar os dados da nossa aplicação usamos banco de dados, e aqui vamos c
     
     Para entender melhor estas variações observe a imagem abaixo.
     
-    ![SQL,%20a%20caixa%20preta%20da%20nossa%20nave%209b2942aa567940dda68347e83b19279e/Untitled.png](SQL,%20a%20caixa%20preta%20da%20nossa%20nave%209b2942aa567940dda68347e83b19279e/Untitled.png)
+    ![SQL%20a%20caixa%20preta%20da%20nossa%20nave%209b2942aa567940dda68347e83b19279e/Untitled.png](SQL%20a%20caixa%20preta%20da%20nossa%20nave%209b2942aa567940dda68347e83b19279e/Untitled.png)
     
 
 # Comandos Avançados

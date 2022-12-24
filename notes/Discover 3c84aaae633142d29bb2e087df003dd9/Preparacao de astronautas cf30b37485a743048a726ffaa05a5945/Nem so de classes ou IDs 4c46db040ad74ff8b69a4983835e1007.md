@@ -1,4 +1,4 @@
-# Nem só de classes ou ID's
+# Nem so de classes ou IDs
 
 > *Site: [https://app.rocketseat.com.br/node/nem-so-de-classes-ou-i-ds](https://app.rocketseat.com.br/node/nem-so-de-classes-ou-i-ds)*
 > 

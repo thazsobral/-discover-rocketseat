@@ -1,4 +1,4 @@
-# NodeJS + EJS: HTML inteligente
+# NodeJS EJS HTML inteligente
 
 > *Site: [https://app.rocketseat.com.br/node/node-js-ejs-html-inteligente](https://app.rocketseat.com.br/node/node-js-ejs-html-inteligente)*
 > 

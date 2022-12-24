@@ -1,4 +1,4 @@
-# HTML que faz sentido, para todos
+# HTML que faz sentido para todos
 
 > *Site: [https://app.rocketseat.com.br/node/html-que-faz-sentido-para-todos](https://app.rocketseat.com.br/node/html-que-faz-sentido-para-todos)*
 > 
@@ -14,7 +14,7 @@ A web é um espaço para todos e, por isso, precisamos entender sobre semântica
     
     Significa adicionar significado ao conteúdo HTML. Dessa forma, é possível **controlar** e **organizar** melhor a apresentação do conteúdo. Para isso, existem **padrões** e **convenções** que permitem a identificação do conteúdo de forma intencional ou não. Por exemplo,
     
-    ![HTML%20que%20faz%20sentido,%20para%20todos%20471b3d62b51341ba8fcb7769d039a526/Untitled.png](HTML%20que%20faz%20sentido,%20para%20todos%20471b3d62b51341ba8fcb7769d039a526/Untitled.png)
+    ![HTML%20que%20faz%20sentido%20para%20todos%20471b3d62b51341ba8fcb7769d039a526/Untitled.png](HTML%20que%20faz%20sentido%20para%20todos%20471b3d62b51341ba8fcb7769d039a526/Untitled.png)
     
     observando a imagem acima é possível identificar seus elementos, sendo que uns só bastá uma olhada rápida, e outros precisa-se de mais atenção sobre seu significado. Mas todos podem ser identificados.
     
@@ -106,7 +106,7 @@ A web é um espaço para todos e, por isso, precisamos entender sobre semântica
     
     Como citado anteriormente o HTML5 têm como foco construir páginas semânticas. A diferença entre está versão e sua anterior pode ser melhor visualizada com a imagem abaixo.
     
-    ![HTML%20que%20faz%20sentido,%20para%20todos%20471b3d62b51341ba8fcb7769d039a526/Untitled%201.png](HTML%20que%20faz%20sentido,%20para%20todos%20471b3d62b51341ba8fcb7769d039a526/Untitled%201.png)
+    ![HTML%20que%20faz%20sentido%20para%20todos%20471b3d62b51341ba8fcb7769d039a526/Untitled%201.png](HTML%20que%20faz%20sentido%20para%20todos%20471b3d62b51341ba8fcb7769d039a526/Untitled%201.png)
     
 - **Quais são as seções comuns do HTML5?**
     
@@ -120,7 +120,7 @@ A web é um espaço para todos e, por isso, precisamos entender sobre semântica
     - `<section>`, é uma **seção** para a página. Este elemento é genérico assim como o `<arcticle>`. Geralmente, este elemento contém um `<h1>` (título) quando não existir um elemento semântico mais específico para apresentá-lo.
     - `<footer>`, é o **rodapé** da página. Normalmente as responsabilidade desta seção são, apresentar informações de contato do dono do site (telefone, e-mail, endereço, etc) e apresentar links para outras páginas e informações do próprio site (como, data de criação, data de atualização, etc).
     
-    ![HTML%20que%20faz%20sentido,%20para%20todos%20471b3d62b51341ba8fcb7769d039a526/Untitled%202.png](HTML%20que%20faz%20sentido,%20para%20todos%20471b3d62b51341ba8fcb7769d039a526/Untitled%202.png)
+    ![HTML%20que%20faz%20sentido%20para%20todos%20471b3d62b51341ba8fcb7769d039a526/Untitled%202.png](HTML%20que%20faz%20sentido%20para%20todos%20471b3d62b51341ba8fcb7769d039a526/Untitled%202.png)
     
     ```html
     <body>

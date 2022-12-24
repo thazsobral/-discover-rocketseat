@@ -1,4 +1,4 @@
-# NodeJS: O motor da nave
+# NodeJS O motor da nave
 
 > *Site: [https://app.rocketseat.com.br/node/node-js-o-motor-da-nave](https://app.rocketseat.com.br/node/node-js-o-motor-da-nave)*
 > 

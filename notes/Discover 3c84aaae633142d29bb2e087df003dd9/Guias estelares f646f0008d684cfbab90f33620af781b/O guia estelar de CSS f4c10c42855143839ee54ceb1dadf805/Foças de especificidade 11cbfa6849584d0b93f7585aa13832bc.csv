@@ -1,0 +1,6 @@
+﻿Peso de especificidade,seletores
+0,"Global Selector (*), Combinators (div p, div > p, div + p, div ~p) e Negation Pseudo-Class (:not())"
+1,"Element Type Selector e Pseudo-Elements (::before, ::after)"
+10,"Classes (.classes) e Atribute Selectors ([type=""radio""])"
+100,ID Selector (#identification)
+1000,"Inline (<h1 style=""color:red"">)"

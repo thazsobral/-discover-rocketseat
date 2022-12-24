@@ -7,7 +7,7 @@ A trilha perfeita pra quem busca dominar os fundamentos da programação e da we
 
 ## Summary
 
-[O guia estelar de programação](Guias%20estelares%20f646f0008d684cfbab90f33620af781b/O%20guia%20estelar%20de%20programac%CC%A7a%CC%83o%2021a578c11e254e9d8f75909b48cebe13.md)
+[O guia estelar de programação](Guias%20estelares%20f646f0008d684cfbab90f33620af781b/O%20guia%20estelar%20de%20programacao%2021a578c11e254e9d8f75909b48cebe13.md)
 
 [O guia estelar de HTTP](Guias%20estelares%20f646f0008d684cfbab90f33620af781b/O%20guia%20estelar%20de%20HTTP%20fdc320e4111346b49c14305388fbb9fc.md)
 
